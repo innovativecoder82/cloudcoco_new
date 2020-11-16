@@ -1,0 +1,1 @@
+<?php $conn = mysqli_connect('localhost','root','','u360145419_cloudcoco') or die('Unable to Connect to Database'); ?>
